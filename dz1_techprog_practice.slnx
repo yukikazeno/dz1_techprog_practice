@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="dz_from_Latypova/dz_from_Latypova.csproj" />
+  <Project Path="ConsoleApp1/dz_from_Tumakov.csproj" Id="2bc79709-f1f9-4a6c-aa3b-8e672e8d27f4" />
+  <Project Path="dz_from_Latypova/dz_from_Latypova.csproj" Id="ef1dc4e1-8ecc-4cdd-b216-072bc08b6950" />
 </Solution>
